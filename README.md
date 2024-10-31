@@ -10,7 +10,7 @@ I'm Ana Luiza, a software developer focused on web and mobile applications. With
 ## 🌟 Featured Projects
 - <a href="https://github.com/analuizaalvesm/cycling-connect">Cycling Connect</a>: A mobile app to optimize cyclist training with personalized tracking and a coach’s web dashboard for efficient management. Built with React Native, React.js, Java w/ Spring Framework, MySQL and Railway.
 - <a href="https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2021-1-ti1-7924100-adocao-de-pets-em-bh-uaipets">UaiPets</a>: Uaipets was the first project I ever worked on. It's a platform designed to promote pets available for adoption in Belo Horizonte, featuring easy-to-use tools for a fun user experience. Built with HTML, Bootstrap, CSS, and JavaScript, it also integrates the Google Maps API.
-- ⌛ Currently working on <b>two</b> other side projects, focused on e-commerce and freelancing.
+- ⌛ Currently working on <b>two</b> other side projects.
 
 ## 🛠️ Languages and Tools
 <div align="center">
