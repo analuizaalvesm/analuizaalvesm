@@ -2,7 +2,7 @@
 
 I'm Ana Luiza, a software developer focused on web and mobile applications. With over 3 years of experience in the tech industry, I have worked on projects developing projects using React/Next.js, React Native, Kotlin, and other front-end technologies.
 
-- 📍 Minas Gerais, Brazil
+- 📍 Living in Minas Gerais, Brazil
 - 💼 Mobile developer at <a href="https://inter.co/">Inter</a>
 - 🎓 Software Engineering undergraduate
 - 📚 Currently focusing my studies in <b>Kotlin</b> and <b>Java</b> w/ Spring Framework
@@ -37,11 +37,11 @@ I'm Ana Luiza, a software developer focused on web and mobile applications. With
 </div>
 
 ## 📊 Github Stats
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=analuizaalvesm&show_icons=true&locale=en" alt="analuizaalvesm" />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=analuizaalvesm&theme=one_dark_pro&show_icons=true&locale=en" alt="analuizaalvesm" />
 
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=analuizaalvesm&show_icons=true&locale=en&layout=compact" alt="analuizaalvesm" />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=analuizaalvesm&theme=one_dark_pro&show_icons=true&locale=en&layout=compact" alt="analuizaalvesm" />
 
-## Connect with me
+## 🤝 Connect with me
 <div align="center">
 <a href="https://github.com/analuizaalvesm" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
