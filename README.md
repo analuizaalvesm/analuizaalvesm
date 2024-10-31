@@ -5,14 +5,14 @@ I'm Ana Luiza, a software developer focused on web and mobile applications. With
 - 📍 Living in Minas Gerais, Brazil
 - 💼 Mobile developer at <a href="https://inter.co/">Inter</a>
 - 🎓 Software Engineering undergraduate
-- 📚 Currently focusing my studies in <b>Kotlin</b> and <b>Java</b> w/ Spring Framework
+- 📚 Currently focusing my studies in <b>Kotlin</b>, <b>Java</b> (w/ Spring Framework), Design Patterns and <b>Software Architecture</b>
 
 ## 🌟 Featured Projects
 - <a href="https://github.com/analuizaalvesm/cycling-connect">Cycling Connect</a>: A mobile app to optimize cyclist training with personalized tracking and a coach’s web dashboard for efficient management. Built with React Native, React.js, Java w/ Spring Framework, MySQL and Railway.
 - <a href="https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2021-1-ti1-7924100-adocao-de-pets-em-bh-uaipets">UaiPets</a>: Uaipets was the first project I ever worked on. It's a platform designed to promote pets available for adoption in Belo Horizonte, featuring easy-to-use tools for a fun user experience. Built with HTML, Bootstrap, CSS, and JavaScript, it also integrates the Google Maps API.
 - ⌛ Currently working on <b>two</b> other side projects.
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages and Frameworks
 <div align="center">
   
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
@@ -23,6 +23,7 @@ I'm Ana Luiza, a software developer focused on web and mobile applications. With
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -33,6 +34,17 @@ I'm Ana Luiza, a software developer focused on web and mobile applications. With
 ![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+<div align="center">
+
+### Other tools
+  
+![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+</div>
 
 </div>
 
