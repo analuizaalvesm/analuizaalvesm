@@ -49,9 +49,9 @@ I'm Ana Luiza, a brazilian software developer focused on web and mobile applicat
 </div>
 
 ## 📊 Github Stats
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=analuizaalvesm&title_color=FFFFFF&bg_color=404040&text_color=d1d5db&icon_color=FFFFFF&hide_border=true&show_icons=true&locale=en" alt="analuizaalvesm" />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=analuizaalvesm&title_color=FFFFFF&bg_color=27272a&text_color=d1d5db&icon_color=FFFFFF&hide_border=true&show_icons=true&locale=en" alt="analuizaalvesm" />
 
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=analuizaalvesm&title_color=FFFFFF&bg_color=404040&text_color=d1d5db&icon_color=FFFFFF&hide_border=true&show_icons=true&locale=en&layout=compact" alt="analuizaalvesm" />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=analuizaalvesm&title_color=FFFFFF&bg_color=27272a&text_color=d1d5db&icon_color=FFFFFF&hide_border=true&show_icons=true&locale=en&layout=compact" alt="analuizaalvesm" />
 
 ## 🤝 Connect with me
 <div align="center">
