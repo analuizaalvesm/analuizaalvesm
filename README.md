@@ -1,8 +1,8 @@
-# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-I'm Ana Luiza, a software developer focused on web and mobile applications. With over 3 years of experience in the tech industry, I have worked on projects developing projects using React/Next.js, React Native, Kotlin, and other front-end technologies.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7F7F7&repeat=true&width=435&lines=Hi+there!)](https://git.io/typing-svg)
 
-- 📍 Living in Minas Gerais, Brazil
+I'm Ana Luiza, a brazilian software developer focused on web and mobile applications. With over 3 years of experience in the tech industry, I have worked on projects developing projects using React/Next.js, React Native, Kotlin, and other front-end technologies.
+
 - 💼 Mobile developer at <a href="https://inter.co/">Inter</a>
 - 🎓 Software Engineering undergraduate
 - 📚 Currently focusing my studies in <b>Kotlin</b>, <b>Java</b> (w/ Spring Framework), Design Patterns and <b>Software Architecture</b>
@@ -49,9 +49,9 @@ I'm Ana Luiza, a software developer focused on web and mobile applications. With
 </div>
 
 ## 📊 Github Stats
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=analuizaalvesm&theme=one_dark_pro&show_icons=true&locale=en" alt="analuizaalvesm" />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=analuizaalvesm&title_color=FFFFFF&bg_color=404040&text_color=d1d5db&icon_color=FFFFFF&hide_border=true&show_icons=true&locale=en" alt="analuizaalvesm" />
 
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=analuizaalvesm&theme=one_dark_pro&show_icons=true&locale=en&layout=compact" alt="analuizaalvesm" />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=analuizaalvesm&title_color=FFFFFF&bg_color=404040&text_color=d1d5db&icon_color=FFFFFF&hide_border=true&show_icons=true&locale=en&layout=compact" alt="analuizaalvesm" />
 
 ## 🤝 Connect with me
 <div align="center">
