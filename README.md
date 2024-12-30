@@ -1,5 +1,3 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7F7F7&repeat=true&width=435&height=55&lines=Hi+there!+%3A)" alt="Typing SVG" /></a>
-
 ### Welcome to my profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px" />
 I'm Ana Luiza, a brazilian software developer focused on web and mobile applications. With over 3 years of experience in the tech industry, I have worked on projects developing projects using React/Next.js, React Native, Kotlin, and other front-end technologies.
 
