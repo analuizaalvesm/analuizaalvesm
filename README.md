@@ -44,9 +44,15 @@ I'm Ana Luiza, a brazilian software developer focused on web and mobile applicat
 
 </div>
 
-## 🤝 Connect with me
+## 📊 Github Stats
+
 <div align="center">
-<a href="https://www.linkedin.com/in/ana-luiza-alves-1139aa205/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>  
+  
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=analuizaalvesm&title_color=FFFFFF&bg_color=27272a&text_color=d1d5db&icon_color=FFFFFF&border_color=3f3f46&show_icons=true&locale=en" alt="analuizaalvesm" />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=analuizaalvesm&title_color=FFFFFF&bg_color=27272a&text_color=d1d5db&icon_color=FFFFFF&border_color=3f3f46&show_icons=true&locale=en&layout=compact" alt="analuizaalvesm" />
+</div> 
+
+## 🤝 Connect with me
+
+You can reach me through:
+- LinkedIn: [linkedin.com/in/analuizamalves](www.linkedin.com/in/analuizamalves)
