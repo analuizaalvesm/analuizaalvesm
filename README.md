@@ -54,5 +54,4 @@ I'm Ana Luiza, a brazilian software developer focused on web and mobile applicat
 
 ## 🤝 Connect with me
 
-You can reach me through:
-- LinkedIn: [linkedin.com/in/analuizamalves](www.linkedin.com/in/analuizamalves)
+You can reach me through my [Linkedin](www.linkedin.com/in/analuizamalves).
