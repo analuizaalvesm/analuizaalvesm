@@ -1,7 +1,7 @@
 ### Welcome to my profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px" />
 I'm Ana Luiza, a brazilian software developer focused on web and mobile applications. I have experience working on projects with React/Next.js, React Native, Kotlin, Java and other technologies.
 
-- 💼 Mobile developer at <a href="https://inter.co/">Inter</a>
+- 💼 Mobile developer at <a href="https://www.linkedin.com/company/luizalabs/?originalSubdomain=br">Luizalabs</a>
 - 🎓 Software Engineering undergraduate
 - 📚 Currently focusing my studies in <b>Kotlin</b>, <b>Java</b> (w/ Spring Framework), Design Patterns and <b>Software Architecture</b>
 
