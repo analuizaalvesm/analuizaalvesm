@@ -5,7 +5,7 @@ I'm Ana Luiza, a software engineer focused on web and mobile applications. I hav
 - 🎓 Software Engineering undergraduate
 - 📚 Currently focusing my studies in <b>Kotlin</b>, <b>Java</b> (w/ Spring Framework), Design Patterns and <b>Software Architecture</b>
 
-## 🛠️ Languages and Frameworks
+## Languages and Frameworks
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -45,6 +45,6 @@ I'm Ana Luiza, a software engineer focused on web and mobile applications. I hav
 
 </div>
 
-## 🤝 Connect with me
+## Connect with me
 
 You can reach me through my [Linkedin](www.linkedin.com/in/analuizamalves).
