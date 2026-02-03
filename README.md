@@ -2,7 +2,7 @@
 I'm Ana Luiza, a software engineer focused on web and mobile applications. I have experience working on projects with TypeScript, JavaScript, Kotlin, Java, Python and other technologies.
 
 - 💼 Mobile developer at <a href="https://www.linkedin.com/company/luizalabs/?originalSubdomain=br">Luizalabs</a>
-- 🎓 Software Engineering undergraduate
+- 🎓 Software Engineering undergraduate at Pontifical Catholic University of Minas Gerais
 - 📚 Currently focusing my studies in <b>Kotlin</b>, <b>Java</b> (w/ Spring Framework), Design Patterns and <b>Software Architecture</b>
 
 ## Languages and Frameworks
