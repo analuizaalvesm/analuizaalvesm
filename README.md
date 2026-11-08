@@ -8,4 +8,4 @@ I'm Ana Luiza, a software engineer focused on web and mobile applications. I hav
 
 ## Connect with me
 
-You can reach me through my [Linkedin](www.linkedin.com/in/analuizamalves) or via email at [anamalves.dev@gmail.com](mailto:anamalves.dev@gmail.com).
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/analuizamalves) or reach out via email at [anamalves.dev@gmail.com](mailto:anamalves.dev@gmail.com).
